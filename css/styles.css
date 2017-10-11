@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-weight: bolder;
+
+
+}
+h2 {
+  text-align: center;
+}
+
+hr {
+  color: brown;
+  border-bottom: thick;
+
+}
+.intro {
+  background-color: #F135EC;
+  color: #054407;
+  font-style: italic;
+}
+
+.fun-font {
+  font-family: 'Rye', cursive;
+  font-size: 30px;
+  color: #A9594B;
+}
+
+.cyan {
+  background-color: cyan;
+  color: #160950;
+  font-size: 20px;
+}
+
+.orange {
+  font-size: 16px;
+  background-color: #D68513;
+}
+
+.sad-font {
+  font-size: 40px;
+  font-family: 'Permanent Marker', cursive;
+  color: orange;
+}
+
+.sad-man {
+  border-radius: 70%;
+  margin-top: auto;
+}
+
+.link {
+  text-align: center;
+  color: purple;
+  font-size: 300px;
+
+}
